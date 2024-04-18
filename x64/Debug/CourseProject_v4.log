@@ -1,0 +1,15 @@
+﻿  CourseProject_v4.cpp
+C:\VisualStudioLabs\CourseProject_v4\CourseProject_v4\Item.h(18,38): warning C4244: аргумент: преобразование "float" в "const _Elem", возможна потеря данных
+C:\VisualStudioLabs\CourseProject_v4\CourseProject_v4\Item.h(18,38): warning C4244:         with
+C:\VisualStudioLabs\CourseProject_v4\CourseProject_v4\Item.h(18,38): warning C4244:         [
+C:\VisualStudioLabs\CourseProject_v4\CourseProject_v4\Item.h(18,38): warning C4244:             _Elem=char
+C:\VisualStudioLabs\CourseProject_v4\CourseProject_v4\Item.h(18,38): warning C4244:         ]
+  (компиляция исходного файла "CourseProject_v4.cpp")
+  
+C:\VisualStudioLabs\CourseProject_v4\CourseProject_v4\AdmPossibilities.h(30,6): warning C4101: num: неиспользованная локальная переменная
+  (компиляция исходного файла "CourseProject_v4.cpp")
+  
+C:\VisualStudioLabs\CourseProject_v4\CourseProject_v4\List.h(108,1): warning C4715: ListUser<User>::operator[]: значение возвращается не при всех путях выполнения
+C:\VisualStudioLabs\CourseProject_v4\CourseProject_v4\List.h(108,1): warning C4715: ListUser<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+C:\VisualStudioLabs\CourseProject_v4\CourseProject_v4\List.h(108,1): warning C4715: ListUser<Item>::operator[]: значение возвращается не при всех путях выполнения
+  CourseProject_v4.vcxproj -> C:\VisualStudioLabs\CourseProject_v4\x64\Debug\CourseProject_v4.exe
